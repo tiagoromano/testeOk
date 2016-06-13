@@ -10,7 +10,7 @@
 			"properties": {
 				"onchange": {
 					"removable": true,
-					"type": "event"
+					"type": "event" 
 				}
 			}
 		}
